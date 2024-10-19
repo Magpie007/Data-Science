@@ -6,3 +6,4 @@
 - Statistics
   - [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/)
   - [The Art of Statistics](https://github.com/dspiegel29/ArtofStatistics)
+  - [Practical Statistics for Data Scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
