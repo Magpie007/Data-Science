@@ -2,3 +2,7 @@
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [ISL with R](https://www.statlearning.com/resources-second-edition)
 - [ISL with Python](https://www.statlearning.com/resources-python) | [Contributors](https://github.com/a-martyn/ISL-python)
+## Reading Lists
+- Statistics
+  - [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/)
+  - [The Art of Statistics](https://github.com/dspiegel29/ArtofStatistics)
