@@ -10,5 +10,7 @@
 [percentiles](https://onlinestatbook.com/2/introduction/percentiles.html)
 
 
+### Visualization
+[Boxplot Basic](https://web.archive.org/web/20190415201405/https://www.oswego.edu/~srp/stats/bp_con.htm) | [Boxplots](https://www.r-bloggers.com/2013/06/box-plot-with-r-tutorial/)
 
-
+[Histograms](https://www.r-bloggers.com/2012/12/basics-of-histograms/)
