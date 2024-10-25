@@ -3,13 +3,15 @@
 
 [data frames in R](https://stat.ethz.ch/R-manual/R-devel/library/base/html/data.frame.html) | [data frames in Python](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
 
-[density estimation in R](http://vita.had.co.nz/papers/density-estimation.pdf)
+
 
 [deviations](https://www.r-bloggers.com/2013/08/absolute-deviation-around-the-median/)
 
 [percentiles](https://onlinestatbook.com/2/introduction/percentiles.html)
+### Papers
+[An introduction to kernel density estimation](https://www.mvstat.net/tduong/research/seminars/seminar-2001-05.pdf)
 
-
+[Density estimation in R](http://vita.had.co.nz/papers/density-estimation.pdf)
 ### Visualization
 [Bar Plots](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/barplot.html)
 
