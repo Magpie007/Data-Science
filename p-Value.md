@@ -37,10 +37,10 @@
 [GraphPad Prism 统计指南 | 如何报告统计结果](https://bbs.pinggu.org/thread-10579381-1-1.html)
 
 ### p-Value
-
-[What is p-value?](https://www.graphpad-prism.cn/guides/prism/10/statistics/stat_multiple_comparisons_traps.htm)
+[What is p-value?](https://www.graphpad.com/guides/prism/latest/statistics/stat_multiple_comparisons_traps.htm)
+[cn](https://www.graphpad-prism.cn/guides/prism/10/statistics/stat_multiple_comparisons_traps.htm)
 
 ### GraphPad 
-
-[Prism cn](https://www.graphpad-prism.cn/)
+[Resources,](https://www.graphpad.com/resources#tutorials-guides)
+[Prism cn,](https://www.graphpad-prism.cn/)
 [User's Guide](https://www.graphpad-prism.cn/?c=i&a=resource)
