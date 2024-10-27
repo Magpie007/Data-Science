@@ -21,3 +21,6 @@
 
 ### Statistics Reading
 [Statistics](https://docdrop.org/download_annotation_doc/Statistics-Fourth-Edition-by-David-Freeman-Robert-Pisani-Rog-5t2fj.pdf)
+
+[Understanding Robust and Exploratory Data Analysis](https://www.amazon.com/Understanding-Robust-Exploratory-Data-Analysis/dp/0471384917)
+
