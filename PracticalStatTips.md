@@ -3,8 +3,6 @@
 
 [data frames in R](https://stat.ethz.ch/R-manual/R-devel/library/base/html/data.frame.html) | [data frames in Python](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
 
-
-
 [deviations](https://www.r-bloggers.com/2013/08/absolute-deviation-around-the-median/)
 
 [percentiles](https://onlinestatbook.com/2/introduction/percentiles.html)
@@ -20,3 +18,6 @@
 [Histograms](https://www.r-bloggers.com/2012/12/basics-of-histograms/)
 
 [Pies](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf)
+
+### Statistics Reading
+[Statistics](https://docdrop.org/download_annotation_doc/Statistics-Fourth-Edition-by-David-Freeman-Robert-Pisani-Rog-5t2fj.pdf)
