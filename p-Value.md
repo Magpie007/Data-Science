@@ -28,6 +28,8 @@
 
 [GraphPad Prism P值_P Value.1](https://bbs.pinggu.org/thread-12185669-1-1.html)
 
+[GraphPad Prism P值_P Value.2](https://bbs.pinggu.org/thread-12300981-1-1.html)
+
 [GraphPad Prism 统计指南, 如何解读大P值](https://bbs.pinggu.org/thread-11289644-1-1.html)
 
 [GraphPad Prism 统计指南, 如何解读小P值](https://bbs.pinggu.org/thread-11259987-1-1.html)
