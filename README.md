@@ -9,4 +9,6 @@
   - [Practical Statistics for Data Scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
 - Visualization
   - [seaborn: statistical data visualization](https://seaborn.pydata.org/)
+- Data Mining
+  - [Data Mining and Machine Learning: Fundamental Concepts and Algorithms](https://dataminingbook.info/book_html/)
 
